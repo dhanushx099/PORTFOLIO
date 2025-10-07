@@ -1,0 +1,116 @@
+.divv{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.maindiv {
+    
+    display: flex;
+    align-items: center;
+
+
+}
+
+.imgclass {
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.maindiv2{
+    display: flex;
+    align-items: center;
+    padding-right: 5px;
+}
+
+.detail{
+    padding: 5px;
+    color: antiquewhite;
+    
+}
+
+.divv2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.imggclass{
+  width: 200px;
+  height: 250px;     
+  padding-right: 350px;
+  padding-top: 50px;
+  
+}
+
+.divv3{
+    display: flex;
+    justify-content: space-evenly;
+    border-color: antiquewhite;
+    margin-top: 20px;
+    padding-left: 10px;
+   
+}
+
+.color3{
+    color:black;
+    background-color: antiquewhite;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.club{
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 5px;
+    background-color: antiquewhite;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.education{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid white;
+}
+
+.mainproject1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mainproject2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lastdiv{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    background-color: antiquewhite;
+    
+}
+
+.lastimg:hover{
+     transform: scale(1.1);
+}
+
+.pro1img:hover{
+    transform: scale(1.1) ;
+}
+
+.pro2img:hover{
+    transform: scale(1.1) ;
+}
+
+.pro3img:hover{
+    transform: scale(1.1) ;
+}
+
+.pro4img:hover{
+    transform: scale(1.1) ;
+}
